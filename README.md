@@ -61,7 +61,11 @@ plt.legend(['Regression Line','Data points'])
 
 
 # Output 
-![Uploading 240567453-759f566b-4153-49f6-bdca-93e18a552846.png…]()
+### input x and y array
+![1](https://github.com/sithihajara/Correlation_Regression/assets/94219582/297bf2b6-14b3-4fbf-aeb9-cd5ccfcdcbb2)
+### regression lines and graph
+![3](https://github.com/sithihajara/Correlation_Regression/assets/94219582/962441a0-6120-4620-90bd-a63af268e2df)
+
 
 # Result
 The Correlation and regression for data analysis of objects from feeder using probability distribution are calculated
